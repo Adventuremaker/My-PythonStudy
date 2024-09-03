@@ -1,3 +1,4 @@
+#This is my first Network Automatic Experiment Keep goning!
 import time
 import numpy as np
 from utils import DataWriter
